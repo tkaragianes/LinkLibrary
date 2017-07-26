@@ -1,9 +1,9 @@
-#CSS RESOURCES
+# CSS RESOURCES
 
 ---
-##CSS GRID
+## CSS GRID
 * https://www.mozilla.org/en-US/developer/css-grid/
->
+> A simple but useful illustrated step-by-step guide to the basics of CSS Grid (by Mozilla).
 
 * http://learncssgrid.com/
 > Explains the basic concepts behind Grid in a linear, understandable manner.

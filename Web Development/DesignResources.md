@@ -1,7 +1,7 @@
-#WEB DESIGN RESOURCES
+# WEB DESIGN RESOURCES
 
 ---
-##Color Sources
+## Color Sources
 * https://flatuicolors.com
 > Been around for ages; good colors, although some may be a bit overused by now.
 
@@ -15,12 +15,12 @@
 > Clean, largely pastel gradients with CSS definitions.
 
 ---
-##ICONS
+## ICONS
 * https://thenounproject.com/
 > Very large high-quality curated icon repository, created by designers and provided in SVG and PNG formats.
 
 ---
-##SVG
+## SVG
 * http://www.heropatterns.com/
 > A collection of repeatable SVG background patterns.
 
@@ -28,6 +28,6 @@
 > SVG patterns for background fills. Aesthetic is a bit old-school, but useful for graphs, visualizations, etc.
 
 ---
-##MOCKUPS
+## MOCKUPS
 * https://dimmy.club/
 > Device mockup generator for your screenshots.
